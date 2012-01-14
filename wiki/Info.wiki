@@ -4,6 +4,7 @@ This is my Terraria Bot, which is currently under development.
 
 = Features =
 Standing still, looking stupid.
+
 Receiving packets.
 
 = Plans =
