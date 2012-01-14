@@ -12,9 +12,11 @@ Receiving packets.
 == Miner bot ==
 Mines in given direction.
 
+
 == Fighter bot ==
 Fights all enemies it comes upon,
 and collects loot.
+
 
 == Backup Bot ==
 Backing you up in combat.
